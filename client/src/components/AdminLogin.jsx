@@ -43,7 +43,7 @@ export default function AdminLogin({ onSuccess }) {
           }}>
             <Icon.Sparkles size={22} />
           </div>
-          <h1 style={{ fontSize: 22, fontWeight: 700, letterSpacing: '-0.01em' }}>Quizly Admin</h1>
+          <h1 style={{ fontSize: 22, fontWeight: 700, letterSpacing: '-0.01em' }}>Dodo Testing Admin</h1>
           <p style={{ fontSize: 13, color: 'var(--text-3)', marginTop: 4 }}>Enter your admin password to continue.</p>
         </div>
 
