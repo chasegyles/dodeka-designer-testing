@@ -67,7 +67,7 @@ export default function VariantDetail() {
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
       <TopBar
-        title="Quizly"
+        title="Dodo Testing Platform"
         subtitle="Quiz details"
         right={
           <Link to="/" style={{ textDecoration: 'none' }}>
