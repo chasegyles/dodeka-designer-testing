@@ -96,7 +96,7 @@ export default function CreateVariant() {
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
       <TopBar
-        title="Quizly"
+        title="Dodo Testing Platform"
         subtitle="New quiz"
         right={
           <Link to="/" style={{ textDecoration: 'none' }}>
