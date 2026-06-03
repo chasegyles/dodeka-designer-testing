@@ -48,7 +48,7 @@ export default function VariantDetail() {
   if (error && !data) {
     return (
       <div>
-        <TopBar title="Quizly" subtitle="Error" />
+        <TopBar title="Dodo Testing Platform" subtitle="Error" />
         <Container narrow>
           <ErrorBanner message={error} />
           <Link to="/" style={{ textDecoration: 'none' }}>
