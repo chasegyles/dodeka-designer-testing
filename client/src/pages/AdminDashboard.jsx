@@ -47,8 +47,8 @@ export default function AdminDashboard() {
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
       <TopBar
-        title="Quizly"
-        subtitle="Designer Knowledge Testing"
+        title="Dodo Testing Platform"
+        subtitle="Designer & Developer Knowledge Testing"
         right={<Badge variant="brand">Admin</Badge>}
       />
 
