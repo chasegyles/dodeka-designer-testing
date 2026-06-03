@@ -71,7 +71,7 @@ export default function TakeQuiz() {
   return (
     <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
       <TopBar
-        title="Quizly"
+        title="Dodo Testing Platform"
         subtitle={quiz.name}
         right={<Badge variant="brand">{takerName}</Badge>}
       />
